@@ -36,6 +36,7 @@ public class HomePage extends BasePage {
 //       Thread.sleep(2000);
 //       element.sendKeys(Keys.ENTER);
 //       Assert.assertEquals(getMovieName(),movieName,"Movie Name not matching");
+//       check
 //   }
 
    public void SelectCity(){
